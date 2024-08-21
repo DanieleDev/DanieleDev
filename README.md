@@ -4,7 +4,7 @@
  Olá! meu nome é Daniele. Muito Prazer! 
  Sou uma Desenvolvedora de Sistemas curiosa e que ama um desafio! Atualmete estou cursando Análise e desenvolvimento de sistemas na FAM.
 
- Meu foco é ser uma Desenvolvedora full Stack, portanto tenho estudando para ser hábil nos desenvolvimentos back-end e front-end. Tenho feito cursos e ralizado projetos sempre me desafiando a criar implementações novas e a corrigir bugs e erros. 
+ Meu foco é ser uma Desenvolvedora full Stack, portanto tenho estudando para ser hábil nos desenvolvimentos back-end e front-end. Tenho feito cursos e ralizado projetos sempre me desafiando a criar implementações novas e a resolver problemas. 
 
 
 ## Conecte-se comigo 
